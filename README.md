@@ -10,7 +10,7 @@ Stop using slow web-based checkers that validate links one by one. **me3st** pro
 
 The easiest way to use **me3st** is to download the latest pre-compiled version. No Python installation required!
 
-1. Go to the **[Latest Release](https://github.com)** section.
+1. Go to the **[Latest Release]([https://github.com](https://github.com/MarioSanLabs/me3st/releases))** section.
 2. Download the executable file for your operating system.
 3. Run it and start checking your playlists in bulk!
 
